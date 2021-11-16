@@ -1,0 +1,134 @@
+/* p{  
+    color: blue;
+} */
+
+/* butun p elementlerinin rengini deyisdirir */
+/* p{
+    color: crimson;
+}
+h1{
+    background-color: darkcyan;
+}
+
+.test{
+    color: darkgoldenrod;
+}
+#paragraph{
+    color: yellowgreen;
+}
+#test1{
+    background-color: tomato;
+} */
+
+/* #paragraph{
+    color: tomato;
+}
+.test{
+    color: blue;
+} */
+
+/* hem paragraph, hemde test classi olanin rengini deyisdirir */
+/* .paragraph.test{
+    color: blue ;
+} */
+
+/* .paragraph .test{
+    color: blueviolet;
+}
+
+*{
+    color: brown;
+} */
+
+/* p.intro{
+    color: crimson;
+} */
+/* p,span{
+    color: darkblue;
+} */
+
+/* div p{
+    color: darkorange   ;
+} */
+/* div>p{
+    color:darkred
+} */
+/* p~ul{
+    color:darkviolet;
+} */
+/* [class=class]{
+    color: gold;
+} */
+
+/* [title~=flower]{
+    border: 4px solid blueviolet;
+} */
+/* a:active{
+    background-color: brown;
+} */
+
+/* p::after{
+    content: " ...............";
+} */
+
+/* input:checked{
+    height: 50px;
+    width: 50px;
+} */
+
+/* input:focus{
+background-color: brown;
+} */
+/* input:in-range{
+    background-color: chocolate;
+}
+a:hover{
+    background-color: chocolate;
+}
+::marker{
+    color:darkblue;
+}
+
+:not(p){
+    color: darkgreen;
+}
+
+:root{
+    background-color: lightblue;
+}
+
+p{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;  
+} */
+
+
+/* .main{
+    width: 400px;
+    height: 400px;
+    background-image: url(../img/1812852.jpg);
+} */
+
+body{
+    background-image: url(../img/1812852.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+div{
+    height: 30px;
+    background-image: url(../img/1812852.jpg);
+    background-attachment: fixed    ;
+}
+
+
+
+
+
+
+
+
+
+
